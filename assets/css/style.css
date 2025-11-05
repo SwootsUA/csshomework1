@@ -1,23 +1,14 @@
 h1
 {
     color:#926239;
-    text-align: center;
     font-size: 40px;
 }
 
 h2
 {
     color:#926239;
-    text-align: center;
+    
 }
-
-
-.button-container 
-{
-  text-align: center; 
-}
-
-
 
 a:link, a:visited 
 {
@@ -31,4 +22,19 @@ a:link, a:visited
 }
 a:hover, a:active {
   background-color: bisque;
+}
+
+p
+{
+  color: white;
+  border: 5px solid #926239;
+  background-color: #926239;
+  /* display: inline-block; */
+  opacity: 5;
+  padding: 10px;
+  margin: 20px;
+  background-position: center;
+  
+  
+
 }
